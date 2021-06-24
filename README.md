@@ -1,2 +1,2 @@
 # digitalperiegesis.github.io
-Website for https://periegesis.org
+Empty github pages site. Potentially can be used for https://periegesis.org in future instead of the WordPress site.
